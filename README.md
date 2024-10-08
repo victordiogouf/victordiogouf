@@ -6,8 +6,8 @@
 
 | Rank | Languages  |
 |-----:|------------|
-|     1| C++        |
-|     2| Javascript |
+|     1| Javascript |
+|     2| C++        |
 |     3| Python     |
 |     4| Rust       |
 

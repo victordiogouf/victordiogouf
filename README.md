@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Python and Rust
+- 🌱 I’m currently learning Python
 
-### Here are the programming languages ​​I'm most familiar with
+### Technologies
 
-| Rank | Languages  |
-|-----:|------------|
-|     1| Javascript |
-|     2| C++        |
-|     3| Python     |
-|     4| Rust       |
-
+- Javascript
+  - Next JS
+  - React Native
+- C++
+  - OpenGL
+- Python (Learning)
+  - Data science (Pending)
+  - Machine Learning (Pending)

@@ -7,6 +7,7 @@
 - Javascript
   - Next JS
   - React Native
+  - Prisma (Pending)
 - C++
   - OpenGL
 - Python (Learning)

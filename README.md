@@ -5,6 +5,7 @@
 ### Technologies
 
 - Javascript
+  - HTML, CSS
   - Next JS
   - React Native
   - Prisma (Pending)

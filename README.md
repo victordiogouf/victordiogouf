@@ -4,11 +4,13 @@
 
 ### Technologies
 
+- HTML, CSS
 - Javascript
-  - HTML, CSS
-  - Next JS
+  - NextJS
   - React Native
+  - ThreeJS
   - Prisma (Pending)
+- SQL
 - C++
   - OpenGL
 - Python (Learning)

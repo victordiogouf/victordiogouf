@@ -5,14 +5,7 @@
 ### Technologies
 
 - HTML, CSS
-- Javascript
-  - NextJS
-  - React Native
-  - ThreeJS
-  - Prisma (Pending)
+- Typescript
 - SQL
 - C++
-  - OpenGL
-- Python (Learning)
-  - Data science (Pending)
-  - Machine Learning (Pending)
+- Python
